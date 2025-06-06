@@ -1,0 +1,5 @@
+{
+    "explorer.fileNesting.enabled": false,
+    "scm.compactFolders": true,
+    "explorer.compactFolders": false
+}
